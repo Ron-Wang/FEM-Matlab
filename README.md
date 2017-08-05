@@ -12,8 +12,8 @@ png文件为相应的示意图</br>
 ![image](https://github.com/Ron-Wang/FEM-Matlab/blob/master/FEM/2-5/2-5.png)</br>
 另一单元划分为镜像</br>
 ## 计算结果 </br>
-![image](https://github.com/Ron-Wang/FEM-Matlab/blob/master/FEM/data/2-5x.jpg)</br>
-![image](https://github.com/Ron-Wang/FEM-Matlab/blob/master/FEM/data/2-5x1.jpg)</br>
+![image](https://github.com/Ron-Wang/FEM-Matlab/blob/master/FEM/data/2-5x.jpg)
+![image](https://github.com/Ron-Wang/FEM-Matlab/blob/master/FEM/data/2-5x1.jpg)
 ![image](https://github.com/Ron-Wang/FEM-Matlab/blob/master/FEM/data/2-5y.jpg)</br>
 ![image](https://github.com/Ron-Wang/FEM-Matlab/blob/master/FEM/data/2-5y1.jpg)</br>
 ![image](https://github.com/Ron-Wang/FEM-Matlab/blob/master/FEM/data/2-5xy.jpg)</br>
