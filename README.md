@@ -9,5 +9,12 @@ load.txt  荷载信息（不计自重）：自由度编号，荷载大小;</br>
 png文件为相应的示意图</br>
 【重要】节点编号、自由度编号均从0开始！！！</br>
 ## 不同单元划分 </br>
-![image](https://github.com/Ron-Wang/FEM-Matlab/blob/master/FEM/data/2-5x.jpg)</br>
+![image](https://github.com/Ron-Wang/FEM-Matlab/blob/master/FEM/2-5/2-5.png)</br>
+另一单元划分为镜像</br>
 ## 计算结果 </br>
+![image](https://github.com/Ron-Wang/FEM-Matlab/blob/master/FEM/data/2-5x.jpg)</br>
+![image](https://github.com/Ron-Wang/FEM-Matlab/blob/master/FEM/data/2-5x1.jpg)</br>
+![image](https://github.com/Ron-Wang/FEM-Matlab/blob/master/FEM/data/2-5y.jpg)</br>
+![image](https://github.com/Ron-Wang/FEM-Matlab/blob/master/FEM/data/2-5y1.jpg)</br>
+![image](https://github.com/Ron-Wang/FEM-Matlab/blob/master/FEM/data/2-5xy.jpg)</br>
+![image](https://github.com/Ron-Wang/FEM-Matlab/blob/master/FEM/data/2-5xy1.jpg)</br>
